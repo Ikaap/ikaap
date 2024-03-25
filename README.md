@@ -1,6 +1,3 @@
-# Hi there, I'm Ika! 🐰🐇
-
-
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ikaap&show_icons=true&theme=radical"/>
 
